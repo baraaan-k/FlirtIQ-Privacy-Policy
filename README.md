@@ -79,7 +79,7 @@ We do not sell your personal information. We do not use your information for tar
 
 FlirtIQ uses artificial intelligence to generate reply suggestions, pickup lines, and chat analysis. To do this:
 
-- Text you submit to FlirtIQ is sent to third-party large language model (LLM) providers such as OpenAI.
+- Text you submit to FlirtIQ is sent to third-party large language model (LLM) providers (third-party LLM providers).
 - These providers process your text to generate a response and return it to us.
 - Our agreements with these providers prohibit them from using your data to train their models.
 - These providers have their own privacy policies governing how they handle data in transit.
@@ -152,7 +152,7 @@ FlirtIQ is not intended for users under 17. We do not knowingly collect informat
 
 ## 10. International Data Transfers
 
-We operate from Turkey. Our service providers (OpenAI, Firebase, etc.) are located in the United States and other countries. By using FlirtIQ, you consent to your information being transferred to and processed in these countries. Where required by law (e.g., GDPR), we rely on Standard Contractual Clauses or equivalent safeguards.
+We operate from Turkey. Our service providers (third-party LLM providers, Firebase, etc.) are located in the United States and other countries. By using FlirtIQ, you consent to your information being transferred to and processed in these countries. Where required by law (e.g., GDPR), we rely on Standard Contractual Clauses or equivalent safeguards.
 
 ---
 
